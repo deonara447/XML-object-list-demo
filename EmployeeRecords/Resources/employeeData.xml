@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee>
+    <id>1</id>
+    <firstName>Andronikos</firstName>
+    <lastName>Theodoropoulos</lastName>
+    <startDate>2012</startDate>
+    <salary>450001</salary>
+  </Employee>
+  <Employee>
+    <id>2</id>
+    <firstName>Andronikos</firstName>
+    <lastName>Theodoropoulos</lastName>
+    <startDate>2012</startDate>
+    <salary>450001</salary>
+  </Employee>
+  <Employee>
+    <id>3</id>
+    <firstName>Andronikos</firstName>
+    <lastName>Theodoropoulos</lastName>
+    <startDate>2012</startDate>
+    <salary>450001</salary>
+  </Employee>
+</Employees>
